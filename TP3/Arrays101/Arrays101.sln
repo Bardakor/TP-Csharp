@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basics", "Basics\Basics.csproj", "{3773176F-FD24-4F5F-AEE5-985953C256E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maze", "Maze\Maze.csproj", "{389A5699-7911-46A4-B05B-4F065C27A3AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3773176F-FD24-4F5F-AEE5-985953C256E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3773176F-FD24-4F5F-AEE5-985953C256E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3773176F-FD24-4F5F-AEE5-985953C256E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3773176F-FD24-4F5F-AEE5-985953C256E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{389A5699-7911-46A4-B05B-4F065C27A3AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{389A5699-7911-46A4-B05B-4F065C27A3AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{389A5699-7911-46A4-B05B-4F065C27A3AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{389A5699-7911-46A4-B05B-4F065C27A3AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
