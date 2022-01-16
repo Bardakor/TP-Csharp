@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interrogation", "Interrogation\Interrogation.csproj", "{B8E59DAE-48FC-470E-9F91-93D56A2E9BA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basics", "Basics\Basics.csproj", "{37014719-116B-4EE4-9432-B3B0B5585CD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8E59DAE-48FC-470E-9F91-93D56A2E9BA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E59DAE-48FC-470E-9F91-93D56A2E9BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8E59DAE-48FC-470E-9F91-93D56A2E9BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E59DAE-48FC-470E-9F91-93D56A2E9BA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37014719-116B-4EE4-9432-B3B0B5585CD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37014719-116B-4EE4-9432-B3B0B5585CD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37014719-116B-4EE4-9432-B3B0B5585CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37014719-116B-4EE4-9432-B3B0B5585CD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
